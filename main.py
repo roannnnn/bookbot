@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 
 from stats import get_book_text
@@ -17,3 +18,6 @@ def main():
     format(book_path, num_words, sorted_dict_list)
 
 main()
+=======
+print("greetings boots")
+>>>>>>> f32be32869a53805c45730d4dfee637144cdb04c
